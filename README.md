@@ -7,5 +7,5 @@
 ### Unique Metal-insulator transition of LixHyCoO2 
 
 <p align="center">
-  <img width="100%" height="auto" src="figs/defect_Akw.png.png">
+  <img width="100%" height="auto" src="figs/defect_Akw.png">
 </p>
